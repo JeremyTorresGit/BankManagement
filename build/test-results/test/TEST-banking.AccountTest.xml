@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.AccountTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-12-12T02:49:44" hostname="Jeremys-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="deposit_into_same_account_twice()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="deposit_increases_balance_in_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="initialize_APR_in_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="passTime2()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="transfer_check_fromId()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdraw_decreases_balance_in_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdraw_from_same_account_twice()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="withdraw_from_below_zero_balance_in_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="transfer_check_toId()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="passTime()" classname="banking.AccountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

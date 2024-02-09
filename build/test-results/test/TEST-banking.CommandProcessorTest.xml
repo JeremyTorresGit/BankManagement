@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CommandProcessorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-12-12T02:49:44" hostname="Jeremys-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="testProcessWithdrawCommandInAnAccountWithMoney()" classname="banking.CommandProcessorTest" time="0.009"/>
+  <testcase name="testProcessDepositCommandInAnAccountJustCreated()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="testProcessPassTimeCheckAPR()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="testProcessDepositCommandInAnAccountWithMoney()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="testProcessPassTimeCheckAPR2()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="testProcessPassTimeCheckAPR3()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="testProcessPassTimeCheckAPR4()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="test()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="testProcessTransferFromCheckingToSavings1()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="testProcessTransferFromCheckingToSavings2()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="testCreateAccountId()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="sample_1()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

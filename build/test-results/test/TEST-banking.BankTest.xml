@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.BankTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2023-12-12T02:49:44" hostname="Jeremys-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="CD_withdraw_through_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="S_withdraw_through_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="S_withdraw_twice_through_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="deposit_through_bank_by_ID()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="create_bank_with_no_accounts()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="retrieve_account_from_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="pass_time_savings()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="deposit_twice_through_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="withdraw_through_bank_by_ID()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="withdraw_twice_through_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="pass_time_checking2()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="transfer_with_an_amount_larger_than_balance_through_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="pass_time_cd()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="add_account_to_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="transfer_through_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="pass_time_cd2()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="pass_time_checking()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="add_two_accounts_to_bank()" classname="banking.BankTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

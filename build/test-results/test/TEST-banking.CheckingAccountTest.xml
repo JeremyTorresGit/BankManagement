@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CheckingAccountTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-12T02:49:44" hostname="Jeremys-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="initialize_balance_in_checking_and_savings_account()" classname="banking.CheckingAccountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

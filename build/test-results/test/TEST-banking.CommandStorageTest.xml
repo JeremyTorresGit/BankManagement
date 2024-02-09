@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CommandStorageTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-12T02:49:44" hostname="Jeremys-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testGetAllInvalidCommandsToTestSize()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="testGetAllInvalidCommandsToTestFirstCommand()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="testAddInvalidCommandToTestSize()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="testGetAllInvalidCommandsToTestSecondCommand()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="testAddInvalidCommandToTestElementInArray()" classname="banking.CommandStorageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
